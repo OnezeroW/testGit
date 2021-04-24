@@ -1,4 +1,5 @@
 # testGit
+'''
 git config --global user.email "jialin.wan@outlook.com"
 git config --global user.name "OnezeroW"
 
@@ -11,3 +12,4 @@ git push -u origin master
 git remote rm origin
 
 git pull origin master
+'''
